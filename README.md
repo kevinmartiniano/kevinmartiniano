@@ -12,8 +12,8 @@
 
 ### Planos futuros
 
-:monocle_face: Estudar Java  
-:monocle_face: Estudar Node.js  
+:monocle_face: Aprender Java  
+:monocle_face: Aprender Node.js  
 
 ### Um pouco da minha experiência profissional
 
